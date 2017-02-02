@@ -8,8 +8,8 @@
 
 How to Use this application:
 1) Run the class Boot_SpringRest_JaxRSJersey_SwaggerApplication.java
-2) JaxRSRestController has Rest Services sample
-3) UserRestController has MVC sample.
+2) JaxRSRestController has Rest Services sample. Api1)http://localhost:8080/user Api2) http://localhost:8080/user/1
+3) UserRestController has MVC sample. Api1) http://localhost:8080/jersey/jaxRsRest/user. Api2)http://localhost:8080/jersey/jaxRsRest/user/1
 4) http://localhost:8080/swagger-ui.html shows the front end for the both Rest and MVC.
 
 Notes: 
